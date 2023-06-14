@@ -1,5 +1,4 @@
-##Faça um programa contendo uma função/método que leia uma matriz. Na passagem de parâmetro use quantidade de linhas e colunas e ao final retorne a matriz.
-##Na função main apresenta a matriz preenchida com um print apenas.
+# Algoritmo contendo uma função/método que leia uma matriz.
 
 def matriz(colunas, linhas):
   lista = []

@@ -1,5 +1,5 @@
-##Crie uma função que receba uma matriz e returne True se a matriz for simetrica, em caso contrario retorna False. Uma matriz é considerada simétrica quando a 
-##quantidade de linhas é igual a da coluna.
+# Função que recebe uma matriz e returne True se a matriz for simetrica, em caso contrario retorna False. Uma matriz é considerada simétrica quando a 
+# quantidade de linhas é igual a da coluna.
 
 def matriz():
   linha = []

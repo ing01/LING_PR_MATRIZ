@@ -1,5 +1,5 @@
-##Crie uma função que a partir de uma matriz 4x4 mostre a soma dos elementos da diagonal principal . Mostre também a soma dos elementos que estão acima da diagonal principal. 
-##Diagonal principal é identificada pelos elementos que estão no mesmo índice de linha e coluna, exemplo, [1,1], [2,2], etc.
+# Função que a partir de uma matriz 4x4 mostre a soma dos elementos da diagonal principal . Mostre também a soma dos elementos que estão acima da diagonal principal. 
+# Diagonal principal é identificada pelos elementos que estão no mesmo índice de linha e coluna, exemplo, [1,1], [2,2], etc.
 
 matriz=[]
 
